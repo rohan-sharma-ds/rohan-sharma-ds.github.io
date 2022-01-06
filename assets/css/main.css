@@ -2952,7 +2952,7 @@
 			color: #ffffff;
 		}
 
-		#highlight {
+		#highlight1 {
 			background: rgb(255, 255, 255);
 			padding: 6px 10px;
 			margin: 0px 0px;
@@ -2982,7 +2982,7 @@
 			background-color: rgba(255, 255, 255, 0.445);
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("../../images/bgdata.jpeg");
+			background-image: url("../../images/bgtras.png");
 			opacity: 1;
 			background-size: auto;
 		}
