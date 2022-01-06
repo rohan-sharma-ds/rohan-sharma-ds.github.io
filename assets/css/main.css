@@ -427,6 +427,12 @@
 		clear: none;
 		margin-left: 0;
 	}
+	.cc1 {
+		width: 50%;
+		clear: none;
+		margin-left: 0;
+	}
+
 
 	.\33 u, .\33 u\24 {
 		width: 25%;
@@ -490,7 +496,7 @@
 	}
 
 	.\-4u {
-		margin-left: 33.33333%;
+		margin-left: 100%;
 	}
 
 	.\-3u {
@@ -1987,7 +1993,8 @@
 	}
 
 	.experience {
-		border: 1px solid lightblue ;
+		margin-top: 5%;
+		border: 5px solid lightblue ;
 		padding: 10px;
   		box-shadow: 2px 2px 2px 2px lightblue ;
 	}
